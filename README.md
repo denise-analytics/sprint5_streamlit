@@ -70,7 +70,7 @@ O dashboard permite ao usuário:
 
 ### 🌐 Aplicação Online  
 🔗 **Link do aplicativo:**  
-👉 https://github.com/denise-analytics/sprint5_streamlit
+👉 https://sprint5-streamlit.onrender.com/
 
 > Observação: como o aplicativo está hospedado em um plano gratuito, pode levar alguns minutos para “acordar” após períodos de inatividade.
 
