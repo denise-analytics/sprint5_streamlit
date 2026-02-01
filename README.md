@@ -1,5 +1,5 @@
 ## 🚗 Dashboard Interativo – Anúncios de Veículos Usados  
-**Sprint 5 | Data Analytics & Web App**
+**Sprint 5 | Data Analytics & Web App** 
 
 ### 🔎 Visão Geral  
 Este projeto consiste no desenvolvimento de um **dashboard interativo em Streamlit** para análise exploratória de **anúncios de veículos usados** nos Estados Unidos.
